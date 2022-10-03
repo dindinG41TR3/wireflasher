@@ -7,6 +7,6 @@ Dependecis :
 - fastboot
 
 Run ? :
-extract
-chmod u+x wireflasher
-./wireflasher
+extract  
+chmod u+x wireflasher  
+./wireflasher  
